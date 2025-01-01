@@ -1,5 +1,5 @@
-This is just a translation from the [original guide](https://github.com/t0mmysm1th/embassy-os/blob/master/BuildGuide.md)
-Esta es solo una traduccion de la [guia original](https://github.com/t0mmysm1th/embassy-os/blob/master/BuildGuide.md)
+This is a translation from the [original guide](https://github.com/t0mmysm1th/embassy-os/blob/master/BuildGuide.md)
+Esta es una traduccion de la [guia original](https://github.com/t0mmysm1th/embassy-os/blob/master/BuildGuide.md)
 
 ##### Notas Iniciales & Recomendaciones
 * Debido a los problemas para compilar la imagen desde la computadora, esta guia te llevara paso a paso a traves del proceso de compilacion de EmbassyOS directamente en una Raspberry Pi 4 (4GB u 8GB)
